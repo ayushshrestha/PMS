@@ -1,2 +1,2 @@
 # PMS
-PMS - Angular Test Project
+PMS - React Portfolio Management System Project
